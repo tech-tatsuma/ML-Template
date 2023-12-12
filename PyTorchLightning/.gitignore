@@ -1,0 +1,4 @@
+__pycache__/
+logs/*
+dataset/*
+best_model/*
