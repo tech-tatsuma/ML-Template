@@ -2,3 +2,8 @@ __pycache__/
 logs/*
 dataset/*
 best_model/*
+*.csv
+
+!logs/.gitkeep
+!dataset/.gitkeep
+!best_model/.gitkeep
